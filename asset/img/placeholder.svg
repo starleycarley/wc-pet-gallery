@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Photo unavailable">
+	<defs>
+		<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+			<stop offset="0%" stop-color="#fbf5ec"/>
+			<stop offset="100%" stop-color="#f3e7d5"/>
+		</linearGradient>
+	</defs>
+	<rect width="400" height="500" fill="url(#bg)"/>
+	<g fill="none" stroke="#d99c8f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.55">
+		<circle cx="200" cy="220" r="72"/>
+		<path d="M120 360c20-50 60-72 80-72s60 22 80 72"/>
+		<path d="M165 195c0 14 12 24 25 24"/>
+		<path d="M235 195c0 14-12 24-25 24"/>
+		<circle cx="180" cy="205" r="6" fill="#d99c8f"/>
+		<circle cx="220" cy="205" r="6" fill="#d99c8f"/>
+		<path d="M192 235l8 8 8-8"/>
+	</g>
+	<text x="200" y="430" text-anchor="middle" font-family="ui-serif, Georgia, serif" font-style="italic" font-size="22" fill="#6b6f78">A pup is shy today</text>
+</svg>
